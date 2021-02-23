@@ -1,0 +1,7 @@
+Hello world, this is my chapter one.
+This is also the first time I'm using VS Code with git,
+And I am filled with joy! Joy overflow in my heart....
+Sing a new song to the Lord!!!
+God bless the EdConnect Team for me!
+
+Thanks to them, I have become a Full Stack Web Developer!
